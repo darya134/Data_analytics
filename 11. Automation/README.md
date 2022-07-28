@@ -19,4 +19,4 @@
 *Python*, *SQL*, *dash*, *Tableau*
 
 ## Используемые библиотеки
-*Pandas*, *SQLAlchemy*
+*SQLAlchemy*
