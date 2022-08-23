@@ -1,4 +1,4 @@
-# These projects have been completed during training at Practicum data analys boot camp.
+# These projects have been completed during training at Practicum data analysys boot camp.
 | Sprint | Project | Description | Key words |
 | --- | --- | --- | --- |
 | 01 | [Python and data analysis basics](https://github.com/darya134/Data_analytics/tree/main/01.%20Python%20and%20data%20analysis%20basics) | This is the introductory project for the Data Analyst course from Practicum. A few simple tasks must be performed with the data of the Ya.Muzyka service during the process. | `pandas`|
