@@ -9,7 +9,7 @@ The following data was available:
 - artist;
 - genre;
 - user's city;
-- listening start time
+- listening start time;
 - day of the week.
 
 
