@@ -6,7 +6,7 @@
 The following data was available:
 
 * children
-* days enployed
+* days employed
 * age
 * education
 * education ID
