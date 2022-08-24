@@ -5,8 +5,8 @@
 
 The following data was available:
 - user ID;
-- track name;
-- artist name;
+- track;
+- artist;
 - genre;
 - user's city;
 - listening start time
