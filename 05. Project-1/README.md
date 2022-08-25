@@ -1,26 +1,28 @@
-# 05. Изучение закономерностей, определяющих успешность игр
+# 05. Studying the patterns that determine the success of games
 
 
-## Данные
+## Dataset
 
-* Name — название игры
-* Platform — платформа
-* Year_of_Release — год выпуска
-* Genre — жанр игры
-* NA_sales — продажи в Северной Америке (миллионы проданных копий)
-* EU_sales — продажи в Европе (миллионы проданных копий)
-* JP_sales — продажи в Японии (миллионы проданных копий)
-* Other_sales — продажи в других странах (миллионы проданных копий)
-* Critic_Score — оценка критиков (максимум 100)
-* User_Score — оценка пользователей (максимум 10)
-* Rating — рейтинг от организации ESRB (англ. Entertainment Software Rating Board). Эта ассоциация определяет рейтинг компьютерных игр и присваивает им подходящую возрастную категорию.
+The following data was available:
 
-Данные за 2016 год могут быть неполными.
+* name
+* platform
+* year of release
+* genre
+* north america sales (millions of copies)
+* EU sales (millions of copies)
+* Japan sales (millions of copies)
+* other sales (millions of copies)
+* critic score (maximum 100)
+* user score (maximum 10)
+* ESRB rating
 
-## Задача
+Data for 2016 may not be complete.
 
-Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры .  
+## Task
 
-## Используемые библиотеки
+Identified patterns that determine game success using historical data on computer game sales, user and expert ratings, genres, and platforms.  
+
+## Python libraries
 
 *pandas*, *numpy*, *matplotlib*, *seaborn*, *scipy*
