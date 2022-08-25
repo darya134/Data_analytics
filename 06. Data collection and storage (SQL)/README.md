@@ -1,9 +1,9 @@
-# 06. Исследование данных об инвестиции венчурных фондов в компании-стартапы
+# 06. An analysis of the investment of venture funds in start-up companies
 
-## Задача
+## Task
 
-Произвести различные выгрузки данных авиакомпаний с помощью SQL.
+Made various uploads of venture funds data using SQL
 
-## Используемые инструменты
+## Tools
 
-*SQL*, *PostgreSQL*
+*PostgreSQL*
