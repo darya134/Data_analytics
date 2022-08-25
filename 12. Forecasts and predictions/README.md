@@ -25,4 +25,4 @@ The following data was used:
 Predicted the probability of each client's outflow in the next month and formed user portraits using clustering based on visitor data from a fitness center network.
 
 ## Python libaries
-*pandas*, *sklearn*, *seaborn*, *scipy*, *numpy*
+*pandas*, *matplotlib*, *math*, *plotly*, *sklearn*, *seaborn*, *scipy*, *numpy*
