@@ -1,17 +1,21 @@
-# 10. Анализ пользовательского поведения в мобильном приложении
+# 10. An analysis of user behavior in a mobile application
 
 
-## Данные
+## Dataset
 
-Каждая запись в логе — это действие пользователя, или событие.
-* EventName — название события;
-* DeviceIDHash — уникальный идентификатор пользователя;
-* EventTimestamp — время события;
-* ExpId — номер эксперимента: 246 и 247 — контрольные группы, а 248 — экспериментальная.
+The following data was used:
 
-## Задача
+Each entry in the log is a user action or event.
 
-На основе данных использования мобильного приложения для продажи продуктов питания проанализировать воронку продаж, а также оценить результаты A/A/B-тестирования.  
+* event name 
+* device id
+* event timestamp 
+* group (246 and 247 — control groups, 248 — experimental group)
 
-## Используемые библиотеки
-*Pandas*, *Matplotlib*, *Seaborn*, *Plotly*, *NumPy*, *SciPy*
+## Task
+
+Analyzed sales funnels and evaluated the A/A/B testing results from an application for selling food.  
+
+## Python libraries
+
+*pandas*, *matplotlib*, *seaborn*, *plotly*, *numpy*, *scipy*
