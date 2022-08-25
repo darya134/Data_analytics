@@ -1,11 +1,9 @@
-# 11. Создание дашборда по пользовательским событиям для агрегатора новостей
+# 11. Creating a custom events dashboard for a news aggregator
 
-## Задача
+## Task
 
-Используя данные Яндекс.Дзена построить дашборд с метриками взаимодействия пользователей с карточками статей.  
+Created a dashboard of user interaction with news articles.  
 
-## Используемые инструменты
-*Python*, *SQL*, *dash*, *Tableau*
+## Tools and python libraries
 
-## Используемые библиотеки
-*SQLAlchemy*
+*PostgreSQL* *Tableau* *sqlalchemy* *pandas*
