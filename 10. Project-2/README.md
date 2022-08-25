@@ -18,4 +18,4 @@ Analyzed sales funnels and evaluated the A/A/B testing results from an applicati
 
 ## Python libraries
 
-*pandas*, *matplotlib*, *seaborn*, *plotly*, *numpy*, *scipy*
+*pandas*, *matplotlib*, *seaborn*, *plotly*, *numpy*, *scipy*, *math*
