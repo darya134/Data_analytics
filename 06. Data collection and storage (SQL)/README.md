@@ -2,8 +2,8 @@
 
 ## Task
 
-Made various uploads of venture funds data using SQL
+Analized the database of a subscription service for reading books using SQL.
 
-## Tools
+## Tools and python libraries
 
-*PostgreSQL*
+*PostgreSQL*, *sqlalchemy*, *pandas*
