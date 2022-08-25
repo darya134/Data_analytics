@@ -2,7 +2,7 @@
 
 ## Dataset
 
-The following data was used
+The following data was used:
 
 * id
 * object_name
