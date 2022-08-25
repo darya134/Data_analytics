@@ -22,5 +22,5 @@ The following data was available:
 
 Investigated the effect of marital status and the number of children on the ability to repay the loan on time based on statistics on client solvency.
 
-## Libraries
+## Python libraries
 *pandas*
