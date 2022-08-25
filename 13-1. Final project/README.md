@@ -20,4 +20,4 @@ Segmented users based on their behavior in a mobile application, analyzed insigh
 
 ## Python libraries
 
-*pandas* *seaborn* *numpy* *scipy* *math* *plotly* *sklearn* *matplotlib* *datetime*
+*pandas*, *seaborn*, *numpy*, *scipy*, *math*, *plotly*, *sklearn*, *matplotlib*, *datetime*
