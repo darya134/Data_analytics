@@ -1,18 +1,23 @@
-# 13. Мобильные приложения — Выделение групп пользователей на основе поведения
+# 13. User segmentation based on behavior - mobile app analysis
 
 
-## Данные
+## Dataset
 
-В наличии были следующие данные о прослушиваниях треков в сервисе Яндекс.Музыка:
-- Название трека
-- Исполнитель
-- Жанр
-- Город
-- День прослушивания
-- Время прослушивания
+The following data was available:
 
-## Задача
+mobile_dataset.csv
+event time 
+event name  
+user id  
 
-Провести сравнение музыкальных предпочтений у пользователей Яндекс.Музыки, проживающих в Москве и Санкт-Петербурге. Сравнить прослушивания в понедельник, среду и пятницу по городам, а также сравнить жанры, которые слушают пользователи утром в понедельник и вечером в пятницу в Москве и Санкт-Петербурге.  
+mobile_sources.csv
+user id  
+source  
 
-## Используемые библиотеки
+## Task
+
+Segmented users based on their behavior in a mobile application, analyzed insights obtained and conducted A / B testing. Prepared a presentation and dashboard for stakeholders.  
+
+## Python libraries
+
+*pandas* *seaborn* *numpy* *scipy* *math* *plotly* *sklearn* *matplotlib* *datetime*
