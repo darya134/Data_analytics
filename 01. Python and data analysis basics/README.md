@@ -17,6 +17,6 @@ The following data was available:
 
 Analyzed user behaviour and preferences of a music streaming service using the Pandas library.
 
-## Libraries
+## Python libraries
 
 *pandas*
