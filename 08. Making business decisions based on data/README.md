@@ -1,34 +1,34 @@
-# 08. Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста
+# 08. Testing hypotheses to increase revenue in an online store
 
 
-## Данные
+## Datasets
 
-Данные для первой части
+The following data was used:
 
-Файл hypothesis.csv
-* Hypothesis — краткое описание гипотезы;
-* Reach — охват пользователей по 10-балльной шкале;
-* Impact — влияние на пользователей по 10-балльной шкале;
-* Confidence — уверенность в гипотезе по 10-балльной шкале;
-* Efforts — затраты ресурсов на проверку гипотезы по 10-балльной шкале. Чем больше значение Efforts, тем дороже проверка гипотезы.
+hypothesis.csv
 
-Данные для второй части
+* hypothesis
+* reach (10 point scale)
+* impact (10 point scale)
+* confidence (10 point scale)
+* efforts (10 point scale) - the larger the value, the more expensive it is to test the hypothesis.
 
-Файл orders.csv
-* transactionId — идентификатор заказа;
-* visitorId — идентификатор пользователя, совершившего заказ;
-* date — дата, когда был совершён заказ;
-* revenue — выручка заказа;
-* group — группа A/B-теста, в которую попал заказ.
+orders.csv
+* transaction id
+* visitor id
+* date 
+* revenue
+* A/B testing group
 
-Файл visitors.csv
-* date — дата;
-* group — группа A/B-теста;
-* visitors — количество пользователей в указанную дату в указанной группе A/B-теста
+visitors.csv
+* date 
+* A/B testing group
+* number of visitors
 
-## Задача
+## Task
 
-Используя данные интернет-магазина приоритезировать гипотезы, произвести оценку результатов A/B-тестирования различными методами.  
+Prioritized hypotheses and evaluated the results of A / B testing using online store data  
 
-## Используемые библиотеки
-*Pandas*, *Matplotlib*, *SciPy*, *NumPy*, *Seaborn*
+## Python libraries
+
+*pandas*, *matplotlib*, *scipy*, *numpy*, *seaborn*
