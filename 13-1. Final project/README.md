@@ -5,14 +5,14 @@
 
 The following data was available:
 
-mobile_dataset.csv
-event time 
-event name  
-user id  
+* mobile_dataset.csv
+* event time 
+* event name  
+* user id  
 
 mobile_sources.csv
-user id  
-source  
+* user id  
+* source  
 
 ## Task
 
