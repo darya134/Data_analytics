@@ -3,7 +3,7 @@
 
 ## Dataset
 
-The following data was used
+The following data was used:
 
 В вашем распоряжении три датасета. Файл visits_info_short.csv хранит лог сервера с информацией о посещениях сайта, orders_info_short.csv — информацию о покупках, а costs_info_short.csv — информацию о расходах на рекламу.
 
