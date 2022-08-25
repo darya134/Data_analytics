@@ -1,4 +1,4 @@
-# 03. Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости
+# 03. Apartments for sale — real estate market analysis
 
 
 ## Dataset
@@ -9,16 +9,16 @@ The following data was available:
 * balcony
 * ceiling height (m)
 * distance to the city center (m)
-* days_exposition - how many days the ad was placed (from publication to withdrawal)
-* first_day_exposition — publication date
+* days on the market
+* first day on the market
 * floor
-* total floors in the building
+* floors in the building
 * apartments (boolean)
 * kitchen area (m²)
-* last_price - price at the time of removal from publication
-* living_area - living area in square meters (m²)
-* locality_name - the name of the locality
-* open_plan - open plan (boolean)
+* last price
+* living area (m²)
+* area name
+* apartment layout (boolean)
 * number of parks within a 3 km radius
 * distance to the nearest park (m)
 * number of ponds within a 3 km radius
@@ -28,9 +28,10 @@ The following data was available:
 * total area (m²)
 * number of photos in the ad
 
-## Задача
+## Task
 
-Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир.  
+Identified the key parameters that determine the market value of real estate. 
 
-## Используемые библиотеки
-*Pandas*, *Matplotlib*, *Seaborn*
+## Python libraries
+
+*pandas*, *matplotlib*, *seaborn*
