@@ -1,4 +1,4 @@
-# 13. User segmentation based on behavior - mobile app analysis
+# 13-1. User segmentation based on behavior - mobile app analysis
 
 
 ## Dataset
@@ -18,6 +18,6 @@ mobile_sources.csv
 
 Segmented users based on their behavior in a mobile application, analyzed insights obtained and conducted A / B testing. Prepared a presentation and dashboard for stakeholders.  
 
-## Python libraries
+## Tools and python libraries
 
-*pandas*, *seaborn*, *numpy*, *scipy*, *math*, *plotly*, *sklearn*, *matplotlib*, *datetime*
+*Tableau*, *pandas*, *seaborn*, *numpy*, *scipy*, *math*, *plotly*, *sklearn*, *matplotlib*, *datetime*
