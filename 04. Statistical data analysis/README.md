@@ -4,7 +4,7 @@
 
 The following data was available:
 
-Table users:
+Table users
 * user id
 * first name
 * last name
@@ -14,24 +14,24 @@ Table users:
 * city
 * tariff
 
-Table calls:
+Table calls
 * call id
 * call date
 * call duration
 * user id
 
-Table messages:
+Table messages
 * message id
 * message date
 * user id
 
-Table internet:
+Table internet
 * session id
 * mb used
 * session date
 * user id
 
-Table tariffs:
+Table tariffs
 * tariff
 * monthly fee
 * minutes included
