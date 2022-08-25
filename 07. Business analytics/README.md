@@ -1,7 +1,9 @@
-# 07. Анализ убытков приложения ProcrastinatePRO+
+# 07. An analysis of entertainment application losses
 
 
-## Данные
+## Dataset
+
+The following data was used
 
 В вашем распоряжении три датасета. Файл visits_info_short.csv хранит лог сервера с информацией о посещениях сайта, orders_info_short.csv — информацию о покупках, а costs_info_short.csv — информацию о расходах на рекламу.
 
@@ -23,9 +25,9 @@
 * Dt — дата проведения рекламной кампании,
 * Costs — расходы на эту кампанию.
 
-## Задача
+## Task
 
-Задача для маркетингового аналитика развлекательного приложения Procrastinate Pro+. Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки. Ваша задача — разобраться в причинах и помочь компании выйти в плюс.  
+Investigated why the entertainment application has been suffering losses despite large advertising investments.  
 
-## Используемые библиотеки
-*Pandas*, *Matplotlib*, *Seaborn*, *NumPy*, *Datetime*
+## Python libraries
+*pandas*, *matplotlib*, *seaborn*, *numpy*
