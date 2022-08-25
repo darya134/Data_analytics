@@ -16,7 +16,7 @@ The following data was used:
 * month to end contract
 * group visits
 * avg class frequency per week
-* avg class frequency per week (prev month)
+* avg class frequency per week (previous month)
 * avg additional charges
 * churn
 
