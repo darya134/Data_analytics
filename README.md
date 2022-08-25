@@ -17,8 +17,4 @@
 | 13-2. Final project (A/B-test) | [Evaluating the results of an A/B test](https://github.com/darya134/Data_analytics/tree/main/13-2.%20Graduation%20project%20(A/B-test)) | Tested the effectiveness of the new online store recommendation system. | `data analytics` `A/B-test` `statistical hypothesis testing` `python` `pandas` `numpy` `matplotlib` `math` `seaborn` `scipy` `plotly` `datetime` |
 | 13-3. Final project (SQL) | [An analysis of the subscription-based book-reading service's database](https://github.com/darya134/Data_analytics/tree/main/13-3.%20Graduation%20project%20(SQL)) | Analized the database of a subscription service for reading books using SQL. | `data analytics` `PostgreSQL` `python` `sqlalchemy` `pandas` |
 
-
-![](diploma/diploma_cover_ru.jpg)
-![](diploma/diploma_sprints_ru.jpg)
-
 [Certificate](https://github.com/darya134/Data_analytics/tree/main/01.%20Python%20and%20data%20analysis%20basics)
