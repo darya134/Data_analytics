@@ -1,19 +1,19 @@
-# 09. Исследования рынка общепита в Москве для принятия решения об открытии нового заведения
+# 09. Research of the catering market to make a decision to open a new establishment
 
+## Dataset
 
-## Данные
+The following data was used
 
-Таблица rest_data:
-* id — идентификатор объекта;
-* object_name — название объекта общественного питания;
-* chain — сетевой ресторан;
-* object_type — тип объекта общественного питания;
-* address — адрес;
-* number — количество посадочных мест.
+* id
+* object_name
+* chain 
+* object_type
+* address 
+* number of seats
 
-## Задача
+## Task
 
-Исследование рынка общественного питания на основе открытых данных, подготовка презентации для инвесторов.  
+Analyzed the catering market based on open data to determine the best location for a new restaurant. Prepared a presentation for stakeholders.  
 
-## Используемые библиотеки
-*Pandas*, *Seaborn*, *Plotly*, *NumPy*, *Matplotlib*, *SciPy*
+## Python libraries
+*pandas*, *seaborn*, *plotly*, *numpy*, *matplotlib*, *scipy*
