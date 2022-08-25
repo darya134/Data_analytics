@@ -5,25 +5,23 @@
 
 The following data was used:
 
-В вашем распоряжении три датасета. Файл visits_info_short.csv хранит лог сервера с информацией о посещениях сайта, orders_info_short.csv — информацию о покупках, а costs_info_short.csv — информацию о расходах на рекламу.
+visits_info_short.csv - info about site visits
+* user id 
+* region 
+* device 
+* ad channel 
+* session start 
+* session end 
 
-Структура visits_info_short.csv
-* User Id — уникальный идентификатор пользователя,
-* Region — страна пользователя,
-* Device — тип устройства пользователя,
-* Channel — идентификатор источника перехода,
-* Session Start — дата и время начала сессии,
-* Session End — дата и время окончания сессии.
+orders_info_short.csv - info about purchase
+* User Id 
+* Event Dt 
+* Revenue 
 
-Структура orders_info_short.csv
-* User Id — уникальный идентификатор пользователя,
-* Event Dt — дата и время покупки,
-* Revenue — сумма заказа.
-
-Структура costs_info_short.csv
-* Channel — идентификатор рекламного источника,
-* Dt — дата проведения рекламной кампании,
-* Costs — расходы на эту кампанию.
+costs_info_short.csv - info about ad costs
+* ad channel 
+* ad campaign date
+* ad campaign costs
 
 ## Task
 
