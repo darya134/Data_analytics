@@ -21,6 +21,4 @@
 ![](diploma/diploma_cover_ru.jpg)
 ![](diploma/diploma_sprints_ru.jpg)
 
-[Версия диплома в PDF](https://github.com/darya134/Data_analytics/tree/main/01.%20Python%20and%20data%20analysis%20basics)
-
-[English version of the diploma](https://github.com/darya134/Data_analytics/tree/main/01.%20Python%20and%20data%20analysis%20basics)
+[Certificate](https://github.com/darya134/Data_analytics/tree/main/01.%20Python%20and%20data%20analysis%20basics)
