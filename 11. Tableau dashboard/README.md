@@ -6,4 +6,4 @@ Created a dashboard of user interaction with news articles.
 
 ## Tools and python libraries
 
-*PostgreSQL* *Tableau* *sqlalchemy* *pandas*
+*PostgreSQL*, *Tableau*, *sqlalchemy*, *pandas*
