@@ -1,4 +1,4 @@
-# 02. Исследование надёжности заёмщиков — анализ банковских данных
+# 02. Borrower reliability study — banking data analysis
 
 
 ## Dataset
@@ -18,9 +18,9 @@ The following data was available:
 * monthly income
 * loan purpose
 
-## Задача
+## Task
 
-На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок.
+Investigated the effect of marital status and the number of children on the ability to repay the loan on time based on statistics on client solvency.
 
-## Используемые библиотеки
+## Libraries
 *pandas*
