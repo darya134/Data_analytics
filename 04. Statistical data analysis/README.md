@@ -1,4 +1,4 @@
-# 04. An analysis of a telecom company's tariffs
+# 04. An analysis of a mobile service provider's tariffs
 
 ## Dataset
 
