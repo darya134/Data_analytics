@@ -43,7 +43,7 @@ Table tariffs
 
 ## Task
 
-Examined customer behavior and the costs of different mobile operator tariffs for a mobile telecommunications company.  
+A mobile service provider offers two tariff plans. The commercial department needs to understand which tariff brings in more money to adjust the advertising budget. The task is to analyze the behavior of 500 users and decide which tariff is better.
 
 ## Python libraries
 
