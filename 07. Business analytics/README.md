@@ -25,7 +25,7 @@ costs_info_short.csv - info about ad costs
 
 ## Task
 
-Investigated why the entertainment application has been suffering losses despite large advertising investments.  
+The entertainment application has consistently lost money over the past few months - a lot of money has been spent trying to attract users, but it hasn't worked. You as a marketing analyst need to understand the reasons behind this. A server log containing information on application visits by new users registered between 2019-05-01 and 2019-10-27, as well as statistics on advertising costs, is available to you.
 
 ## Python libraries
 *pandas*, *matplotlib*, *seaborn*, *numpy*
