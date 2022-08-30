@@ -21,7 +21,7 @@ Data for 2016 may not be complete.
 
 ## Task
 
-Identified patterns that determine game success using historical data on computer game sales, user and expert ratings, genres, and platforms.  
+On order to bid on a potentially popular product and plan advertising campaigns for an online retailer of computer games, you need to identify patterns that determine its success using historical data on computer game sales, user and expert ratings, genres, and platforms.  
 
 ## Python libraries
 
