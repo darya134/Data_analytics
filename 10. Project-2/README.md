@@ -14,7 +14,7 @@ Each entry in the log is a user action or event.
 
 ## Task
 
-Analyzed sales funnels and evaluated the A/A/B testing results from an application for selling food.  
+Analyze the sales funnel and the results of an A/A/B test. We need to understand how food startup users behave a mobile application. We agreed to make a decision based on the results of an A/A/B test after the designers wanted to change fonts throughout the application. To determine which font is the most effective, users were divided into three groups: two control groups with old fonts, and one experimental group with new fonts. Two control groups have certain advantages. If the two control groups are equal, the test can be assumed to be accurate. In the case where the two control groups differ significantly, the causes of the distortion can be identified.  
 
 ## Python libraries
 
