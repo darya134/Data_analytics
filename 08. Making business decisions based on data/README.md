@@ -27,7 +27,7 @@ visitors.csv
 
 ## Task
 
-Prioritized hypotheses and evaluated the results of A / B testing using online store data  
+Prioritize hypotheses developed together with a large online store's marketing department. Run A/B test and analyze the results.  
 
 ## Python libraries
 
