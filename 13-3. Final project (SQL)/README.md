@@ -2,7 +2,7 @@
 
 ## Task
 
-Analized the database of a subscription service for reading books using SQL.
+Using SQL analyze the database of a large service that provides subscription-based books. This database contains information about books, publishers, authors, as well as user reviews. Analysis of this data will help formulate a new value proposition.
 
 ## Tools and python libraries
 
