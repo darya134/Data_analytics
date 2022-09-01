@@ -2,7 +2,7 @@
 
 ## Task
 
-Made various uploads of venture funds data using SQL
+Obtain investment fund data from a database by writing SQL queries.
 
 ## Tools
 
