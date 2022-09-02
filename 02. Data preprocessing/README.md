@@ -20,7 +20,7 @@ The following data was available:
 
 ## Task
 
-Investigated the effect of marital status and the number of children on the ability to repay the loan on time based on statistics on client solvency.
+Statistics on customer solvency provided by the credit department of the bank can help determine whether a borrower's marital status or children will affect their ability to repay the loan.
 
 ## Python libraries
 *pandas*
