@@ -2,7 +2,7 @@
 
 ## Task
 
-Created a dashboard of user interaction with news articles.  
+Write SQL queries to the database and save the results as a csv file. Created a dashboard of user interaction with news articles.  
 
 ## Tools and python libraries
 
