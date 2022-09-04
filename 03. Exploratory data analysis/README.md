@@ -30,7 +30,7 @@ The following data was available:
 
 ## Task
 
-Identified the key parameters that determine the market value of real estate. 
+Your task is to set the parameters for determining the market value of real estate. You will find an archive of advertisements for apartments that have been for sale for several years.
 
 ## Python libraries
 
