@@ -29,7 +29,7 @@ final_ab_participants.csv
 
 ## Task
 
-Tested the effectiveness of the new online store recommendation system.
+Test the effectiveness of the new online store recommendation system. Evaluate the correctness of the A/B test and analyze the results using a dataset with user actions, a technical task, and several auxiliary datasets.
 
 ## Python libraries
 
