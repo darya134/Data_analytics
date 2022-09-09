@@ -22,7 +22,7 @@ The following data was used:
 
 ## Task
 
-Predicted the probability of each client's outflow in the next month and formed user portraits using clustering based on visitor data from a fitness center network.
+Prepare an action plan for retaining customers based on an analysis of customer profiles.
 
 ## Python libaries
 *pandas*, *matplotlib*, *math*, *plotly*, *sklearn*, *seaborn*, *scipy*, *numpy*
