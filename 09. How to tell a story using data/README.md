@@ -13,7 +13,7 @@ The following data was used:
 
 ## Task
 
-Analyzed the catering market based on open data to determine the best location for a new restaurant. Prepared a presentation for stakeholders.  
+Conduct a market research of catering establishments using open data. Determine the prospects of opening a network of catering establishments, their type, number of seats, and location.  
 
 ## Python libraries
 *pandas*, *seaborn*, *plotly*, *numpy*, *matplotlib*, *scipy*
