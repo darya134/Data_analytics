@@ -16,7 +16,7 @@ mobile_sources.csv
 
 ## Task
 
-Segmented users based on their behavior in a mobile application, analyzed insights obtained and conducted A / B testing. Prepared a presentation and dashboard for stakeholders.  
+To improve the mobile application, analyze user actions in the application, study insights, and divide users into groups with different metrics.  
 
 ## Tools and python libraries
 
