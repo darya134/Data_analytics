@@ -9,7 +9,7 @@ Based on the analysis, I made a conclusion that:
     - Local residents;
     - Those who are over 30.
 
-Need to attract customers with:
+- Need to attract customers with:
     - more profitable affiliate programs and promotions;
     - more profitable subscriptions for 12 months;
     - a variety of group activities;
