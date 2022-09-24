@@ -7,6 +7,7 @@ Complete
 
 In this project, I prioritized hypotheses developed together with a large online store's marketing department. Also, ran A/B test and analyzed the results. 
 
+## Conclusion
 
 Prioritization of hypotheses:
 
