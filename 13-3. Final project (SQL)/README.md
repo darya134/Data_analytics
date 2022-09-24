@@ -2,7 +2,7 @@
 
 ## Task
 
-In this project, using SQL I analyzed the database of a large service that provides subscription-based books. This database contains information about books, publishers, authors, as well as user reviews. Analysis of this data will help formulate a new value proposition.
+Using SQL in this project, I analyzed the database of a large service that provides subscription-based books. This database contains information about books, publishers, authors, as well as user reviews. Analysis of this data will help formulate a new value proposition.
 
 When formulating a new value proposition, I recommend using the following information from the database:
 
