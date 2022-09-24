@@ -2,7 +2,7 @@
 
 ## Task
 
-A mobile service provider offers two tariff plans. The commercial department needs to understand which tariff brings in more money to adjust the advertising budget. In this project I analyzed the behavior of 500 users and decided which tariff is better.
+A mobile service provider offers two tariff plans. The commercial department needs to understand which tariff brings in more money to adjust the advertising budget. In this project, I analyzed the behavior of 500 users and decided which tariff is better.
 
 Users of smart tariff use the operator's services more than users of ultra tariff. Smart tariff has a greater variance and standard deviation, except for the number of messages parameter.
 
