@@ -2,7 +2,7 @@
 
 ## Task
 
-Obtain investment fund data from a database by writing SQL queries.
+In this project I obtained investment fund data from a database by writing SQL queries.
 
 ## Tools
 
