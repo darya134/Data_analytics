@@ -7,6 +7,8 @@ Complete
 
 In this project, I prepared recommendations for retaining customers based on an analysis of customer profiles.
 
+## Conclusion
+
 Based on the analysis, I made a conclusion that:
 - Our target audience:
     - Local residents;
