@@ -1,6 +1,6 @@
 # 01. User comparison between two cities
 
-## Project status
+## Status
 Complete
 
 ## Task
