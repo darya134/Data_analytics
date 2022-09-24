@@ -2,7 +2,9 @@
 
 ## Task
 
-In this project, I prioritized hypotheses developed together with a large online store's marketing department. Also, ran A/B test and analyzed the results.  
+In this project, I prioritized hypotheses developed together with a large online store's marketing department. Also, ran A/B test and analyzed the results. 
+
+
 Prioritization of hypotheses:
 
 - Applied the ICE framework to prioritize hypotheses. Hypotheses number 8 has the highest priority in the ICE framework.
