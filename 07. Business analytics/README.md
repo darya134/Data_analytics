@@ -7,6 +7,8 @@ Complete
 
 The entertainment application has consistently lost money over the past few months - a lot of money has been spent trying to attract users, but it hasn't worked. In this project, I as a marketing analyst needed to understand the reasons behind this. A server log containing information on application visits by new users registered between 2019-05-01 and 2019-10-27, as well as statistics on advertising costs, is available.
 
+## Conclusion
+
 As a result of this analysis, I made a conclusion:
 
 - Pay attention to Mac and iPhone owners. The cost of their attraction is increasing each month, and their ROI is suffering. The company can make some interesting marketing offer for owners of these devices so that they pay off more.
