@@ -20,7 +20,7 @@ After exploring the results of an A/A/B experiment:
     - At a given critical level of statistical significance, the proportion of unique visitors who visited the funnel stage do not have statistically significant differences;
     - The groups were correctly split because there was no statistical significance.
 
-In A/B experiment tested two control groups 246 and 247 with experimental group 248:
+- In A/B experiment tested two control groups 246 and 247 with experimental group 248:
     - At a given critical level of statistical significance, the proportion of unique visitors who visited the funnel stage do not have statistically significant differences;
     - Changing the fonts did not affect the behavior of users. That is, changing the fonts will not affect sales.
 
