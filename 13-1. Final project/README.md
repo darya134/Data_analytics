@@ -7,6 +7,8 @@ Complete
 
 To improve the mobile application, I analyzed user actions in the application, studied insights, and divided users into groups with different metrics.  
 
+## Conclusion
+
 After user segmentation, I made a conclusion:
 
 - By clustering users into groups, it is possible to find the two leader groups (2 and 3) from their contacts_show per user. These groups have very few users, but they utilize the application to its full potential;
