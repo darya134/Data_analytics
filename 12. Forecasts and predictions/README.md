@@ -1,5 +1,8 @@
 # 12. Churn prediction for fitness centers
 
+## Status
+Complete
+
 ## Task
 
 In this project, I prepared recommendations for retaining customers based on an analysis of customer profiles.
