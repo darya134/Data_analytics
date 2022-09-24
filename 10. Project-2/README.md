@@ -2,7 +2,7 @@
 
 ## Task
 
-In this project, I analyzed the sales funnel and the results of an A/A/B test. I needed to understand how food startup users behave a mobile application. It was agreed to make a decision based on the results of an A/A/B test after the designers wanted to change fonts throughout the application. To determine which font is the most effective, users were divided into three groups: two control groups with old fonts, and one experimental group with new fonts. Two control groups have certain advantages. If the two control groups are equal, the test can be assumed to be accurate. In the case where the two control groups differ significantly, the causes of the distortion can be identified.
+In this project, I analyzed the sales funnel and the results of an A/A/B test. I needed to understand how food startup users behave in a mobile application. It was agreed to make a decision based on the results of an A/A/B test after the designers wanted to change fonts throughout the application. To determine which font is the most effective, users were divided into three groups: two control groups with old fonts, and one experimental group with new fonts. Two control groups have certain advantages. If the two control groups are equal, the test can be assumed to be accurate. In the case where the two control groups differ significantly, the causes of the distortion can be identified.
 
 After exploring the funnel of sales:
 - The most frequent event was MainScreenAppear;
