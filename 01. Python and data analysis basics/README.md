@@ -1,5 +1,8 @@
 # 01. User comparison between two cities
 
+## Project status
+Complete
+
 ## Task
 
 In this project, I tested three hypotheses:
