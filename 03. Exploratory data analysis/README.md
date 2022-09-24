@@ -1,5 +1,8 @@
 # 03. Apartments for sale — real estate market analysis
 
+## Status
+Complete
+
 ## Task
 
 In this project, I set the parameters for determining the market value of real estate using an archive of advertisements for apartments that have been for sale for several years. I made a conclusion that:
