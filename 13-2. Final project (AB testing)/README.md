@@ -1,5 +1,8 @@
 # 13-2. Evaluating the results of an A/B test  
 
+## Status
+Complete
+
 ## Task
 
 In this project, I tested the effectiveness of the new online store recommendation system. Evaluated the correctness of the A/B test and analyzed the results using a dataset with user actions, a technical task, and several auxiliary datasets.
