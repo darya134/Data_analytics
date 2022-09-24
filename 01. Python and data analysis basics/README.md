@@ -10,6 +10,8 @@ In this project, I tested three hypotheses:
 2. Certain genres predominate in Moscow on Monday mornings, whereas others predominate in St. Petersburg. Similarly, Friday evenings vary by city in terms of genre.
 3. Rap is the most popular genre in St. Petersburg. Moscow is dominated by pop music.
 
+## Conclusion
+
 I conlcuded that the day of the week has a different effect on the activity of users in Moscow and St. Petersburg.
 
 The analysis supports the first hypothesis that users in two cities listen to music differently on different days of the week:
