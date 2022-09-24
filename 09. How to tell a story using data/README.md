@@ -1,5 +1,8 @@
 # 09. Research of the catering market to make a decision to open a new establishment
 
+## Status
+Complete
+
 ## Task
 
 In this project, I conducted a market research of catering establishments using open data. Determined the prospects of opening a network of catering establishments, their type, number of seats, and location.  
