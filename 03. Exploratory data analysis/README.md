@@ -2,7 +2,7 @@
 
 ## Task
 
-In this project I set the parameters for determining the market value of real estate using an archive of advertisements for apartments that have been for sale for several years. I made a conclusion that:
+In this project, I set the parameters for determining the market value of real estate using an archive of advertisements for apartments that have been for sale for several years. I made a conclusion that:
 
 - In general, there are 1, 2, and 3 bedroom apartments on the market, which have an area of less than 100 square meters, ceiling heights ranging from 2.5 to 3 meters and cost about 6 million.
 
