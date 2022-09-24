@@ -2,7 +2,7 @@
 
 ## Task
 
-I this project I analyzed statistics on customer solvency provided by the credit department of the bank to determine whether a borrower's marital status or children affect their ability to repay the loan.
+In this project I analyzed statistics on customer solvency provided by the credit department of the bank to determine whether a borrower's marital status or children affect their ability to repay the loan.
 
 The likelihood of indebtedness is lower when there are no children than when there are children. The likelyhood of being in debt is higher for families with one or two children. However, the difference is not that great in general. With many children, the debt is approximately at the same as when there are no children.
 
