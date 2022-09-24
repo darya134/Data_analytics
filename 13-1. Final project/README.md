@@ -1,5 +1,8 @@
 # 13-1. User segmentation based on behavior - mobile app analysis
 
+## Status
+Complete
+
 ## Task
 
 To improve the mobile application, I analyzed user actions in the application, studied insights, and divided users into groups with different metrics.  
