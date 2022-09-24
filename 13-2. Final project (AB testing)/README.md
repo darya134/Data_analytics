@@ -1,35 +1,15 @@
-# 13-2. Evaluating the results of an A/B test
-
-## Dataset
-
-The following data was available:
-
-ab_project_marketing_events.csv 
-* name
-* regions
-* start date
-* finish date
-
-final_ab_new_users.csv 
-* user id
-* first date 
-* region 
-* device 
-
-final_ab_events.csv 
-* user id 
-* event date 
-* event name
-* details 
-
-final_ab_participants.csv
-* user id  
-* ab test  
-* group  
+# 13-2. Evaluating the results of an A/B test  
 
 ## Task
 
-Test the effectiveness of the new online store recommendation system. Evaluate the correctness of the A/B test and analyze the results using a dataset with user actions, a technical task, and several auxiliary datasets.
+In this project, I tested the effectiveness of the new online store recommendation system. Evaluated the correctness of the A/B test and analyzed the results using a dataset with user actions, a technical task, and several auxiliary datasets.
+
+After evaluating the results of A / B testing:
+
+The results of A/B testing with Bonferroni adjustment showed that the conversion rates of groups A and B have statistically significant differences at the product_page stage. At the product_cart and purchase stages, the conversion rates of groups A and B do not have statistically significant differences.
+Recommendations:
+
+I made a conclusion that the A/B test should be rerun considering any data issues.
 
 ## Python libraries
 
