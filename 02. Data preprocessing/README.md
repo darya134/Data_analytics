@@ -1,5 +1,8 @@
 # 02. Borrower reliability study — banking data analysis
 
+## Status
+Complete
+
 ## Task
 
 In this project, I analyzed statistics on customer solvency provided by the credit department of the bank to determine whether a borrower's marital status or children affect their ability to repay the loan. I made a conclusion that:
