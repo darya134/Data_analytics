@@ -1,5 +1,8 @@
 # 08. Testing hypotheses to increase revenue in an online store
 
+## Status
+Complete
+
 ## Task
 
 In this project, I prioritized hypotheses developed together with a large online store's marketing department. Also, ran A/B test and analyzed the results. 
