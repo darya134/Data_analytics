@@ -1,7 +1,7 @@
 # 12. Churn prediction for fitness centers
 
 ## Status
-Complete
+Completed
 
 ## Task
 
