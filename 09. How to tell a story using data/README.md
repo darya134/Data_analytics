@@ -1,7 +1,7 @@
 # 09. Research of the catering market to make a decision to open a new establishment
 
 ## Status
-Complete
+Completed
 
 ## Task
 
