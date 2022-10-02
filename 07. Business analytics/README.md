@@ -1,7 +1,7 @@
 # 07. An analysis of entertainment application losses
 
 ## Status
-Complete
+Completed
 
 ## Task
 
