@@ -1,7 +1,7 @@
 # 02. Borrower reliability study — banking data analysis
 
 ## Status
-Complete
+Completed
 
 ## Task
 
