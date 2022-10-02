@@ -1,7 +1,7 @@
 # 13-1. User segmentation based on behavior - mobile app analysis
 
 ## Status
-Complete
+Completed
 
 ## Task
 
