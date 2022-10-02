@@ -1,7 +1,7 @@
 # 03. Apartments for sale — real estate market analysis
 
 ## Status
-Complete
+Completed
 
 ## Task
 
