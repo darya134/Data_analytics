@@ -18,8 +18,8 @@ After user segmentation, I made a conclusion:
 The ad serving system needs to be improved. Users see ads in all search engines, but are not interested in looking at photos or even contacts. Users are not shown what is relevant them. It is necessary to find out what interests them and build algorithms based on this information.
 
 ## External links
-- Presentation: https://drive.google.com/file/d/1AZddZqggV6w-nW2Go065pJww0Tew63L3/view?usp=sharing
-- Dashboard: https://public.tableau.com/app/profile/darya.ilina/viz/Mobile_app_analysis/sheet3#2
+- [Presentation:](https://drive.google.com/file/d/1AZddZqggV6w-nW2Go065pJww0Tew63L3/view?usp=sharing)
+- [Dashboard:](https://public.tableau.com/app/profile/darya.ilina/viz/Mobile_app_analysis/sheet3#2)
 
 ## Tools and python libraries
 
