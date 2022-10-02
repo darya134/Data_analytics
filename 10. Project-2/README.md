@@ -1,7 +1,7 @@
 # 10. An analysis of user behavior in a mobile application
 
 ## Status
-Complete
+Completed
 
 ## Task
 
