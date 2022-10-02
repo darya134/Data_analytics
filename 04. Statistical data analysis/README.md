@@ -1,7 +1,7 @@
 # 04. An analysis of a mobile service provider's tariffs
 
 ## Status
-Complete
+Completed
 
 ## Task
 
