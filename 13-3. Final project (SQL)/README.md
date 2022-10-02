@@ -1,7 +1,7 @@
 # 13-3. An analysis of the subscription-based book-reading service's database
 
 ## Status
-Complete
+Completed
 
 ## Task
 
