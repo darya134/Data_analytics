@@ -14,5 +14,8 @@ Based on the analysis of the data, recommendations can be made that:
 - In choosing the number of seats, you should consider the following figures: cafe - 30, restaurant - 80.
 - It is recommended to choose a location from the top 10 streets: Prospect Mira, Profsoyuznaya street, Leningradsky prospect, Presnenskaya embankment, Varshavskoye highway, Leninsky prospect, Vernadsky prospect, Kutuzovsky prospect, Kashirskoye highway, Kirovogradskaya street.
 
+## External links
+- [Presentation](https://drive.google.com/file/d/1gjUWexPUvnh2Zp0Lhm-708OORfNjGRB6/view?usp=sharing)
+
 ## Python libraries
 *pandas*, *seaborn*, *plotly*, *numpy*, *matplotlib*, *scipy*
