@@ -1,7 +1,7 @@
 # 05. Studying the patterns that determine the success of games
 
 ## Status
-Complete
+Completed
 
 ## Task
 
