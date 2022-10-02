@@ -1,7 +1,7 @@
 # 11. Creating a custom events dashboard for a news aggregator
 
 ## Status
-Complete
+Completed
 
 ## Task
 
