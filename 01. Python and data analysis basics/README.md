@@ -1,7 +1,7 @@
 # 01. User comparison between two cities
 
 ## Status
-Complete
+Completed
 
 ## Task
 
