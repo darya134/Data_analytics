@@ -1,7 +1,7 @@
 # 13-2. Evaluating the results of an A/B test  
 
 ## Status
-Complete
+Completed
 
 ## Task
 
