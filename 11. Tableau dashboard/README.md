@@ -5,7 +5,7 @@ Completed
 
 ## Task
 
-In this project, I wrote SQL queries to the database and saved the results as a csv file. Created a dashboard of user interaction with news articles.
+In this project, I wrote SQL queries to the database and saved the results as a csv file. Created a dashboard and presentation of user interaction with news articles.
 
 ## External links
 - [Presentation](https://drive.google.com/file/d/1zaz5qEDMEHIMkk9gSgdpFs7t0dn4QFHt/view?usp=sharing)
