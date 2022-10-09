@@ -5,7 +5,7 @@ Completed
 
 ## Task
 
-On order to bid on a potentially popular product and plan advertising campaigns for an online retailer of computer games, I identified patterns that determine its success using historical data on computer game sales, user and expert ratings, genres, and platforms.  
+In order to bid on a potentially popular product and plan advertising campaigns for an online retailer of computer games, I identified patterns that determine its success using historical data on computer game sales, user and expert ratings, genres, and platforms.  
 
 ## Conclusion
 
