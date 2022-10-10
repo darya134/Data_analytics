@@ -11,7 +11,7 @@ In this project, I analyzed statistics on customer solvency provided by the cred
 
 I made a conclusion that:
 
-- The likelihood of indebtedness is lower when there are no children than when there are children. The likelyhood of being in debt is higher for families with one or two children. However, the difference is not that great in general. With many children, the debt is approximately at the same as when there are no children.
+- The likelihood of indebtedness is lower when there are no children than when there are children. The likelihood of being in debt is higher for families with one or two children. However, the difference is not that great in general. With many children, the debt is approximately at the same as when there are no children.
 
 - Divorced and widowed people are at the lowest risk of delinquency. People who are officially maried are practically not far behind them. Unmarried and cohabiting couples are at the highest risk of delinquency. Probably people who are in official relationships take out loans with greater care.
 
