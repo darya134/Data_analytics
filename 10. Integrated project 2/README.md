@@ -10,14 +10,12 @@ In this project, I analyzed the sales funnel and the results of an A/A/B test. I
 ## Conclusion
 
 After exploring the funnel of sales:
-- The most frequent event was MainScreenAppear;
-- MainScreenAppear was the most common event for users;
 - Events occur in the following order: MainScreenAppear > OffersScreenAppear > CartScreenAppear > PaymentScreenSuccessful;
 - Proportion of users progressed to the next step:
-- For a sequence of events MainScreenAppear → OffersScreenAppear, 62% progressed to the next step of the funnel;
-- For a sequence of events OffersScreenAppear → CartScreenAppear, 81% progressed to the next step of the funnel;
-- For a sequence of events CartScreenAppear → PaymentScreenSuccessful, 95% progressed to the next step of the funnel.
-- MainScreenAppear to OffersScreenAppear results in the most user loss;
+    - For a sequence of events MainScreenAppear → OffersScreenAppear, 62% progressed to the next step of the funnel;
+    - For a sequence of events OffersScreenAppear → CartScreenAppear, 81% progressed to the next step of the funnel;
+    - For a sequence of events CartScreenAppear → PaymentScreenSuccessful, 95% progressed to the next step of the funnel.
+    - MainScreenAppear to OffersScreenAppear results in the most user loss;
 47.70% of users made it from the first event to payment.
 
 After exploring the results of an A/A/B experiment:
